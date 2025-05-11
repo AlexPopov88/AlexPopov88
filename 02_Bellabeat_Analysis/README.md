@@ -67,7 +67,8 @@ The dataset was sourced from **[Kaggle - Fitbit Fitness Tracker Data](https://ww
 - Correlation heatmaps for calories, METs, and sleep metrics  
 - Segmentation based on sedentary time  
 
-<sub>Visuals created using matplotlib and seaborn</sub>
+![Scatter plots to show MET vs. activity minutes](visuals/ActivityMinutes_vs_METs.png)
+![Scatter plots to show step count vs. sedentary minutes](visuals/Steps_vs_SedentaryMinutes.png)
 
 ---
 
