@@ -87,7 +87,3 @@ The dataset was sourced from **[Kaggle - Fitbit Fitness Tracker Data](https://ww
 - Python (pandas, matplotlib, seaborn)
 - Excel
 - Jupyter Notebook
-
----
-
-## 📁 Folder Structure
