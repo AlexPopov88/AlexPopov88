@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This notebook was created as a **demo test** for Python and data analytics skills, showcasing practical use of Python for solving typical data-related tasks. The test covers a mix of **data manipulation, logic implementation, and output formatting**, demonstrating proficiency in working with structured data using Python.
+This notebook was created as a **demo test** for Python and data analytics skills, showcasing practical use of Python for solving typical data-related tasks. The test covers a mix of **data manipulation, statistics, logic implementation**, and **output formatting**, demonstrating proficiency in working with structured data using Python.
 
 ---
 
@@ -10,6 +10,7 @@ This notebook was created as a **demo test** for Python and data analytics skill
 
 - Perform data extraction and transformation
 - Apply conditional logic and rule-based classification
+- Analyse data with descriptive statistics and correlation
 - Use efficient data handling with pandas
 - Validate outputs using consistent structures
 
@@ -25,9 +26,24 @@ This notebook was created as a **demo test** for Python and data analytics skill
 
 ---
 
+## 📊 Statistical Analysis
+
+The project includes several **descriptive and exploratory statistics techniques**, such as:
+
+- `mean()` — to calculate average values across numeric columns
+- `std()` — to measure variability and standard deviation
+- `corr()` — to detect correlation between features
+- `describe()` — for a full summary (count, mean, min, max, quartiles)
+- Grouped aggregations using `.groupby()` and `.agg()` for segmented insights
+
+These methods help uncover patterns, variability, and relationships within the dataset, supporting data-driven conclusions.
+
+---
+
 ## 🧾 Task Highlights
 
 - 📄 Read data from Excel/CSV sources
 - 🧮 Apply calculations and transformations
 - 🧠 Implement decision logic (e.g. grading, tagging, categorisation)
-- 📊 Prepare structured outputs
+- 📊 Perform statistical summaries and correlation checks
+- 📥 Prepare structured output files
