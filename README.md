@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Alex Popov
 
-<!--
-**AlexPopov88/AlexPopov88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 I'm a career-switching **Data Analyst** with over 10 years of experience in financial analytics and technical development, now focusing on **data insights, business intelligence, and reporting**.
 
-Here are some ideas to get you started:
+🔍 I work with **SQL, Python, Excel, and Power BI** to clean, explore, and visualise data for better decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I'm currently completing the **"Data Analyst in Power BI"** career path and sharing my learning journey through hands-on projects — you can find them in my [Portfolio repository](https://github.com/AlexPopov88/Portfolio).
+
+---
+
+## 🚀 Tools & Technologies
+- **Languages:** SQL · Python · DAX · VBA
+- **Tools:** Power BI · Excel · GitHub · Jupyter · Tableau
+- **Skills:** Data Cleaning · EDA · Visualisation · Reporting · ETL
+
+---
+
+## 📌 Recent Projects
+- 📊 **Bike Sales Dashboard (Excel)**
+- 👥 **HR Analytics with Power BI**
+- 💳 **Customer Churn EDA (Python)**
+
+More coming soon - stay tuned!
+
+---
+
+📫 **Let’s connect**:  
+[LinkedIn](https://www.linkedin.com/in/aleksandrpopov88) | [GitHub](https://github.com/AlexPopov88)
