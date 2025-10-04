@@ -1,17 +1,18 @@
 # 👋 Hi, I'm Alex Popov
 
-💼 I'm a career-switching **Data Analyst** with over 10 years of experience in financial analytics and technical development, now focusing on **data insights, business intelligence, and reporting**.
+💼 I’m a data-driven **Data Analyst** with a strong background in financial analytics, SQL development, and process automation, now focused on **data insights, reporting, and business intelligence**.
+I love working with data - cleaning it, exploring it, and turning it into clear, actionable stories that help businesses make smarter decisions.
 
-🔍 I work with **SQL, Python, Excel, and Power BI** to clean, explore, and visualise data for better decision-making.
+🔍 I work with **SQL, Python, Excel, and Power BI** to design efficient data workflows and deliver meaningful insights.
 
-📚 I'm currently completing the **"Data Analyst in Power BI"** career path and sharing my learning journey through hands-on projects — you can find them in my [Portfolio repository](https://github.com/AlexPopov88/Portfolio).
+🎓 I’ve completed **Google Data Analytics Certificate** the **Data Analyst in Power BI** career path, where I honed skills in DAX, data modelling, and dashboard creation, and I continue to grow through new hands-on projects — all available in my 📁[Portfolio repository](https://github.com/AlexPopov88/Portfolio).
 
 ---
 
 ## 🚀 Tools & Technologies
-- **Languages:** SQL · Python · DAX · VBA
+- **Languages:** SQL · Python (Pandas, NumPy) · DAX · C# · VBA
 - **Tools:** Power BI · Excel · GitHub · Jupyter · Tableau
-- **Skills:** Data Cleaning · EDA · Visualisation · Reporting · ETL
+- **Skills:** Data Cleaning · Data Investigation · EDA · Data Modelling · Visualisation · Reporting · ETL
 
 ---
 
@@ -25,4 +26,4 @@ More coming soon - stay tuned!
 ---
 
 📫 **Let’s connect**:  
-[LinkedIn](https://www.linkedin.com/in/aleksandrpopov88) | [GitHub](https://github.com/AlexPopov88)
+[LinkedIn](https://www.linkedin.com/in/aleksandrpopov88) | [GitHub](https://github.com/AlexPopov88) | 📫 [Email](aleksandr.v.popov@protonmail.com)
